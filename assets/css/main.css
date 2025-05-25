@@ -2097,6 +2097,10 @@ input, select, textarea {
 
 /* Image */
 
+	.responsive-gif {
+  			max-width: 100%;
+  			height: auto;
+	}
 	.image {
 		border-radius: 3px;
 		border: 0;
