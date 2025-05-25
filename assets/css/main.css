@@ -2010,6 +2010,12 @@ input, select, textarea {
 
 /* Icon */
 
+	.icon-wrapper {
+  			display: inline-flex;
+  			align-items: center;  /* Vertical alignment */
+  			gap: 8px;	/* Space between icon and text */
+	}
+
 	.icon {
 		text-decoration: none;
 		border-bottom: none;
